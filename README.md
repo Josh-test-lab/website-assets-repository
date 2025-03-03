@@ -1,2 +1,2 @@
-# website-images-repository
-my web's images repository
+# website-assets-repository
+my website's images/assets/comments repository
