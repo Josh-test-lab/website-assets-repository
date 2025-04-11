@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1420px" height="890px" viewBox="0 0 1420 890" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>compare chart</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HPC頁2版-20190506" transform="translate(-250.000000, -4056.000000)">
+            <g id="feature" transform="translate(0.000000, 524.000000)">
+                <g id="feature02" transform="translate(180.000000, 3255.000000)">
+                    <g id="compare-chart" transform="translate(70.000000, 277.000000)">
+                        <rect id="Rectangle" stroke="#FFFFFF" fill="#FFFFFF" x="0.5" y="0.5" width="1419" height="889" rx="4"></rect>
+                        <text id="Images/sec" transform="translate(14.000000, 459.500000) rotate(-90.000000) translate(-14.000000, -459.500000) " font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="24" font-weight="400" fill="#4A4848">
+                            <tspan x="-50.26" y="468.5">Images/sec</tspan>
+                        </text>
+                        <g id="Group-15" transform="translate(436.000000, 856.000000)" fill="#4A4848" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal">
+                            <text id="V100-16GB-GPU-Memory">
+                                <tspan x="46.806" y="17">V100 16GB GPU Memory</tspan>
+                            </text>
+                            <text id="V100-32GB-GPU-Memory">
+                                <tspan x="346.806" y="17">V100 32GB GPU Memory</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-9-Copy" transform="translate(69.000000, 74.000000)" fill="#4A4848" font-size="18" font-weight="normal">
+                            <g id="Group-10">
+                                <text id="0" font-family="HelveticaNeue, Helvetica Neue">
+                                    <tspan x="41.992" y="779">0</tspan>
+                                </text>
+                                <text id="50" font-family="HelveticaNeue, Helvetica Neue">
+                                    <tspan x="31.984" y="695">50</tspan>
+                                </text>
+                                <text id="100" font-family="HelveticaNeue, Helvetica Neue">
+                                    <tspan x="21.976" y="611">100</tspan>
+                                </text>
+                                <text id="150" font-family="HelveticaNeue, Helvetica Neue">
+                                    <tspan x="21.976" y="526">150</tspan>
+                                </text>
+                                <text id="200" font-family="HelveticaNeue, Helvetica Neue">
+                                    <tspan x="21.976" y="442">200</tspan>
+                                </text>
+                                <text id="250" font-family="HelveticaNeue, Helvetica Neue">
+                                    <tspan x="21.976" y="358">250</tspan>
+                                </text>
+                                <text id="300" font-family="HelveticaNeue, Helvetica Neue">
+                                    <tspan x="21.976" y="274">300</tspan>
+                                </text>
+                                <text id="350" font-family="HelveticaNeue, Helvetica Neue">
+                                    <tspan x="21.976" y="189">350</tspan>
+                                </text>
+                                <text id="400" font-family="HelveticaNeue, Helvetica Neue">
+                                    <tspan x="21.976" y="105">400</tspan>
+                                </text>
+                                <text id="450" font-family="PingFangTC-Regular, PingFang TC">
+                                    <tspan x="19.6" y="19">450</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Group-8" transform="translate(132.000000, 86.000000)" stroke-linecap="square">
+                            <path d="M2.61943245e-16,760.456235 L1208,760.456235" id="Line-2" stroke="#4A4848"></path>
+                            <path d="M0,676.5 L1208,676.5" id="Line-2-Copy" stroke="#D4D4D4"></path>
+                            <path d="M0,591.5 L1208,591.5" id="Line-2-Copy-2" stroke="#D4D4D4"></path>
+                            <path d="M0,507.5 L1208,507.5" id="Line-2-Copy-3" stroke="#D4D4D4"></path>
+                            <path d="M0,422.5 L1208,422.5" id="Line-2-Copy-4" stroke="#D4D4D4"></path>
+                            <path d="M0,254.5 L1208,254.5" id="Line-2-Copy-5" stroke="#D4D4D4"></path>
+                            <path d="M0,338.5 L1208,338.5" id="Line-2-Copy-6" stroke="#D4D4D4"></path>
+                            <path d="M0,169.5 L1208,169.5" id="Line-2-Copy-7" stroke="#D4D4D4"></path>
+                            <path d="M0,85.5 L1208,85.5" id="Line-2-Copy-8" stroke="#D4D4D4"></path>
+                            <path d="M0,1 L1208,1" id="Line-2-Copy-9" stroke="#D4D4D4"></path>
+                        </g>
+                        <g id="name-area" transform="translate(536.000000, 153.000000)">
+                            <rect id="Rectangle" fill="#BFE1E9" x="0" y="93" width="100" height="599"></rect>
+                            <rect id="Rectangle-Copy-16" fill="#3AAAC4" x="300" y="0" width="100" height="692"></rect>
+                            <g id="Group-11" transform="translate(300.000000, 0.000000)" fill="#FFFFFF" fill-opacity="0.2">
+                                <rect id="Rectangle-Copy-20" x="0" y="0" width="18" height="93"></rect>
+                                <rect id="Rectangle-Copy-21" x="27" y="0" width="18" height="93"></rect>
+                                <rect id="Rectangle-Copy-22" x="55" y="0" width="18" height="93"></rect>
+                                <rect id="Rectangle-Copy-23" x="82" y="0" width="18" height="93"></rect>
+                            </g>
+                        </g>
+                        <g id="15%" transform="translate(620.000000, 170.000000)">
+                            <rect id="Rectangle-Copy-17" fill="#27313D" x="0.363666121" y="0" width="157" height="59" rx="4"></rect>
+                            <polygon id="Triangle-Copy-2" fill="#27313D" transform="translate(161.849003, 29.650997) rotate(90.000000) translate(-161.849003, -29.650997) " points="161.849003 17.6509973 168.349003 41.6509973 155.349003 41.6509973"></polygon>
+                            <text id="15%-faster!" font-family="HelveticaNeue-CondensedBlack, Helvetica Neue" font-size="28" font-style="condensed" font-weight="700" fill="#FFFFFF">
+                                <tspan x="11.048" y="40">15% faster!</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-12" transform="translate(808.000000, 153.000000)">
+                            <path d="M16,0.5 L0,0.5" id="Line" stroke="#27313D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M16,92.5 L0,92.5" id="Line-Copy" stroke="#27313D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path id="Line-3" d="M6.88888889,5.28649574 L2.01046443,13.9592503 C1.73970062,14.4406082 1.12998553,14.6113284 0.648627649,14.3405646 C0.167269772,14.0698008 -0.00345045432,13.4600857 0.267313352,12.9787279 L7.01731335,0.978727858 C7.39961742,0.299076178 8.37816036,0.299076178 8.76046443,0.978727858 L15.5104644,12.9787279 C15.7812282,13.4600857 15.610508,14.0698008 15.1291501,14.3405646 C14.6477923,14.6113284 14.0380772,14.4406082 13.7673134,13.9592503 L8.88888889,5.28649574 L8.88888889,9.2189891 C8.88888889,9.77127385 8.44117364,10.2189891 7.88888889,10.2189891 C7.33660414,10.2189891 6.88888889,9.77127385 6.88888889,9.2189891 L6.88888889,5.28649574 Z M8.88888889,88.2609605 L13.7673134,79.5882059 C14.0380772,79.106848 14.6477923,78.9361278 15.1291501,79.2068916 C15.610508,79.4776554 15.7812282,80.0873705 15.5104644,80.5687284 L8.76046443,92.5687284 C8.37816036,93.2483801 7.39961742,93.2483801 7.01731335,92.5687284 L0.267313352,80.5687284 C-0.00345045432,80.0873705 0.167269772,79.4776554 0.648627649,79.2068916 C1.12998553,78.9361278 1.73970062,79.106848 2.01046443,79.5882059 L6.88888889,88.2609605 L6.88888889,86.2189891 C6.88888889,85.6667043 7.33660414,85.2189891 7.88888889,85.2189891 C8.44117364,85.2189891 8.88888889,85.6667043 8.88888889,86.2189891 L8.88888889,88.2609605 Z M6.88888889,16.2189891 C6.88888889,15.6667043 7.33660414,15.2189891 7.88888889,15.2189891 C8.44117364,15.2189891 8.88888889,15.6667043 8.88888889,16.2189891 L8.88888889,23.2189891 C8.88888889,23.7712738 8.44117364,24.2189891 7.88888889,24.2189891 C7.33660414,24.2189891 6.88888889,23.7712738 6.88888889,23.2189891 L6.88888889,16.2189891 Z M6.88888889,30.2189891 C6.88888889,29.6667043 7.33660414,29.2189891 7.88888889,29.2189891 C8.44117364,29.2189891 8.88888889,29.6667043 8.88888889,30.2189891 L8.88888889,37.2189891 C8.88888889,37.7712738 8.44117364,38.2189891 7.88888889,38.2189891 C7.33660414,38.2189891 6.88888889,37.7712738 6.88888889,37.2189891 L6.88888889,30.2189891 Z M6.88888889,44.2189891 C6.88888889,43.6667043 7.33660414,43.2189891 7.88888889,43.2189891 C8.44117364,43.2189891 8.88888889,43.6667043 8.88888889,44.2189891 L8.88888889,51.2189891 C8.88888889,51.7712738 8.44117364,52.2189891 7.88888889,52.2189891 C7.33660414,52.2189891 6.88888889,51.7712738 6.88888889,51.2189891 L6.88888889,44.2189891 Z M6.88888889,58.2189891 C6.88888889,57.6667043 7.33660414,57.2189891 7.88888889,57.2189891 C8.44117364,57.2189891 8.88888889,57.6667043 8.88888889,58.2189891 L8.88888889,65.2189891 C8.88888889,65.7712738 8.44117364,66.2189891 7.88888889,66.2189891 C7.33660414,66.2189891 6.88888889,65.7712738 6.88888889,65.2189891 L6.88888889,58.2189891 Z M6.88888889,72.2189891 C6.88888889,71.6667043 7.33660414,71.2189891 7.88888889,71.2189891 C8.44117364,71.2189891 8.88888889,71.6667043 8.88888889,72.2189891 L8.88888889,79.2189891 C8.88888889,79.7712738 8.44117364,80.2189891 7.88888889,80.2189891 C7.33660414,80.2189891 6.88888889,79.7712738 6.88888889,79.2189891 L6.88888889,72.2189891 Z" fill="#27313D" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
